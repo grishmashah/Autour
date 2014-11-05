@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/grishmashah/personal_projects_workspace/autour/autourProject/libraries/facebook/src/main/assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/grishmashah/personal_projects_workspace/autour/autourProject/libraries/facebook/src/release/assets" />
+    </dataSet>
+
+</merger>

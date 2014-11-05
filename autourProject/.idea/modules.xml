@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/autour/autour.iml" filepath="$PROJECT_DIR$/autour/autour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autourProject.iml" filepath="$PROJECT_DIR$/autourProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/facebook/facebook.iml" filepath="$PROJECT_DIR$/libraries/facebook/facebook.iml" />
+    </modules>
+  </component>
+</project>
+

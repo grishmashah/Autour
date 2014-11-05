@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="ComGoogleAndroidGmsPlayServices4452.aar" >
+        <source path="/Users/grishmashah/personal_projects_workspace/autour/autourProject/autour/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4452.aar/assets" />
+    </dataSet>
+    <dataSet config="ComAndroidSupportAppcompatV71910.aar" >
+        <source path="/Users/grishmashah/personal_projects_workspace/autour/autourProject/autour/build/exploded-bundles/ComAndroidSupportAppcompatV71910.aar/assets" />
+    </dataSet>
+    <dataSet config="AutourProjectLibrariesFacebookUnspecified.aar" >
+        <source path="/Users/grishmashah/personal_projects_workspace/autour/autourProject/autour/build/exploded-bundles/AutourProjectLibrariesFacebookUnspecified.aar/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/grishmashah/personal_projects_workspace/autour/autourProject/autour/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/grishmashah/personal_projects_workspace/autour/autourProject/autour/src/debug/assets" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/msg_friend"
+      android:title="@string/send_msg"/>
+</menu><!-- From: file:/Users/grishmashah/personal_projects_workspace/autour/autourProject/autour/src/main/res/menu/context_menu.xml -->
